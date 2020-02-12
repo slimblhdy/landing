@@ -1,0 +1,31 @@
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card img {
+	width: 150px;
+	border-radius:6px;
+	margin-left: 40px;
+}
+
+.card{
+	background:linear-gradient(-180deg,rgba(216, 190, 195, 0.6)0%,rgba(207, 199, 200, 1)50%);
+	width: 800px;
+	padding: 10px;
+	padding-right: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin-top: 10px;
+}
+
+
+
+.card ul{
+	list-style: none;
+	margin-right: 200px;
+	margin-bottom: 60px;
+}

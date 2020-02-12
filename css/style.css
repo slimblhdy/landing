@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis|Roboto");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card2.css");
+
+
+
+body{
+	font-family: "Dosis", sans-serif;
+	font-size: 18px; 
+	background-color: white;
+}
+
+h1,h3 {
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+}
+
+h2{
+	font-family: "Roboto", sans-serif;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
